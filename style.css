@@ -21,7 +21,7 @@ body {
   transition: 3s;
 }
 
-#ecriture img:hover {
+#ecriture img.scale {
   width: 60%;
 }
 
