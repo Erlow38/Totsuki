@@ -136,14 +136,9 @@ p {
   top: 0;
 }
 
-.dev{
-  width: 100px;
-  height: 100px;
-  background: red;
-}
-
-@media only screen and (max-width:600px) {
+@media only screen and (max-width:1000px) {
   .btn{
-    background: #000;
+    font-size: 42px;
+
   }
 }
